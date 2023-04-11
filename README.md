@@ -1,3 +1,5 @@
+https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiYmZFd1piQUZCTWo5MlRjdVlxWFZTVyt6TmpsVDc1UGVlUTlaVGd5c05PeHlNNmJpNmdELzBxRGxicVBpdXlBVzJQM1djT2Fmdmt6NmRWcitkNWdEeThBPSIsIml2UGFyYW1ldGVyU3BlYyI6Inh4ZERUcEJxWFZ1TkRuWGUiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main
+
 # Setup Application
 ```
 $ git clone https://github.com/RU1214/user-management-api-py.git
