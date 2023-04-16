@@ -15,4 +15,4 @@ $ pip install flask
 # Make API Calls
 **Steps to import**: https://learning.postman.com/docs/getting-started/importing-and-exporting-data/#importing-postman-data
 
-**File to import**: `User Management API.postman_collection.json`
+**File to import**: `user-management-api.postman_collection.json`
